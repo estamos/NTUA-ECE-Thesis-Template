@@ -4,7 +4,6 @@
 ## Examples
 
 <table>
-<tr><th> Paper Size</th><th> Orientation </th></tr>
 <tr><td>
 
 |     Εξώφυλλο             | Εσώφυλλο  | Δήλωση Λογοκλοποής και Ανάληψη Προσωπικής Ευθύνης |
