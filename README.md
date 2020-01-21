@@ -47,4 +47,4 @@
 
 - [Οδηγοί doc](https://lib.ece.ntua.gr/files/odigoi_doc)
 
-- [Dspace NTUA](http://dspace.lib.ntua.gr/)
+- [DSpace NTUA](http://dspace.lib.ntua.gr/)
