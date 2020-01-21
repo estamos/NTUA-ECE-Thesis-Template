@@ -770,7 +770,7 @@
             citecolor=\@thesisurlcolor,pdfauthor={\@author},%
             pdftitle={\@title}, %
         	pdfcreator={ntua-thesis pdfLaTeX class (version \fileversion) %
-            by John Liaperdos}}
+            by Evangelos Stamos}}
         	\usepackage[all]{hypcap}
 		\else
         	%% The following macros remain in the auxiliary files even when
