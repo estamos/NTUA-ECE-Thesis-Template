@@ -1381,8 +1381,8 @@
                     			{\logopath}};
 					\fi
                    		\node[draw=none, text width=9cm, align=left] at (1,4.3) %
-                        	{ΤΕΙ ΠΕΛΟΠΟΝΝΗΣΟΥ \\ ΣΧΟΛΗ ΤΕΧΝΟΛΟΓΙΚΩΝ ΕΦΑΡΜΟΓΩΝ \\ %
-                            TΜΗΜΑ ΜΗΧΑΝΙΚΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ Τ.Ε.};%
+                        	{ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ \\ ΣΧΟΛΗ ΗΛΕΚΤΡΟΛΟΓΩΝ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΜΗΧΑΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ \\ %
+                            TΟΜΕΑΣ};%
                    		\node[draw=none, text width=9cm, align=center] at (0,2.3) %
                         	{ΔΙΠΛΩΜΑΤΙΚΗ ΕΡΓΑΣΙΑ};%
 						\node[draw=none,text width=#5cm, align=center] at (0,0)%
@@ -1415,8 +1415,8 @@
                     			{\logopath}};
 					\fi
                    		\node[draw=none, text width=9cm, align=left] at (1,4.3) %
-                        	{ΤΕΙ ΠΕΛΟΠΟΝΝΗΣΟΥ \\ ΣΧΟΛΗ ΤΕΧΝΟΛΟΓΙΚΩΝ ΕΦΑΡΜΟΓΩΝ \\ %
-                            TΜΗΜΑ ΜΗΧΑΝΙΚΩΝ ΠΛΗΡΟΦΟΡΙΚΗΣ Τ.Ε.};%
+                        	{ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ \\ ΣΧΟΛΗ ΗΛΕΚΤΡΟΛΟΓΩΝ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΜΗΧΑΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ \\ %
+                            TΟΜΕΑΣ};%
                    		\node[draw=none, text width=9cm, align=center] at (0,2.3) %
                         	{ΔΙΠΛΩΜΑΤΙΚΗ ΕΡΓΑΣΙΑ};%
 						\node[draw=none,text width=#5cm, align=center] at (0,0)%
