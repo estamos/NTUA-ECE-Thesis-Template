@@ -669,7 +669,7 @@
 		\translator{Διπλωματική Εργασία}
 		\institution{Εθνικό Μετσόβιο Πολυτεχνείο}
 		\department{Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών}
-		\division{Τομές}
+		\division{Τομέας}
 		\other{}	
 	\fi
     \ifprinteroption
