@@ -1,3 +1,24 @@
+<h1 align="center">
+  <a href="https://github.com/eestamos/NTUA-ECE-Thesis-Template" title="NTUA ECE Thesis LaTeX Template">
+    <img alt="NTUA ECE Thesis LaTeX Template" src="https://www.ece.ntua.gr/themes/ecetheme/assets/img/pyrforos.svg" width="200px" height="200px" />
+  </a>
+  <br />
+  Awesome CV
+</h1>
+
+<p align="center">
+  LaTeX template for thesis
+</p>
+
+<div align="center">
+  <a href="https://www.paypal.me/evangelosstamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
+  </a>
+  <a href="https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_Thesis_Example.pdf">
+    <img alt="Example PDF" src="https://img.shields.io/badge/thesis-pdf-red.svg" />
+  </a>
+</div>
+
 # Template Διπλωματικής ΕΜΠ
  LaTeX Thesis Template for School of Electrical and Computer Engineering | National Technological University of Athens
 
