@@ -14,6 +14,9 @@
   <a href="https://www.paypal.me/evangelosstamos">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
+  <a href="https://www.buymeacoffee.com/estamos">
+    <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
+  </a>
   <a href="https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_Thesis_Example.pdf">
     <img alt="Example PDF" src="https://img.shields.io/badge/thesis-pdf-red.svg" />
   </a>
