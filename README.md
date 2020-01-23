@@ -23,7 +23,7 @@
 </div>
 
 # Template Διπλωματικής ΕΜΠ
- LaTeX Thesis Template for School of Electrical and Computer Engineering | National Technological University of Athens
+ LaTeX Thesis Template for School of Electrical and Computer Engineering | National Technical University of Athens
 
 ## Αλλαγή βασικών πληροφοριών
 Για να αλλάξετε τα κύρια στοιχεία της εργασίας , όπως τίτλο , ονοματεπώνυμα και τα λοιπά πηγαίνετε στο main.tex και κάνετε τις αλλαγές που επιθυμείτε.
