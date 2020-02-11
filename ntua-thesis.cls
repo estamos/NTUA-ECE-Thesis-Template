@@ -785,7 +785,7 @@
         \else
 	 	 	\usepackage{background}
          	\backgroundsetup{%
-         	contents={\selectlanguage{greek}Ergas'ia Seminar'iou Teleiofo'itwn},%
+         	contents={\selectlanguage{greek}Diplwmatik'h Ergas'ia},%
          	angle=90, vshift=2.6cm,%
          	scale=3.4, color=gray}
         \fi
@@ -1010,14 +1010,14 @@
         }
     	\fancyfoot[LO]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Ergas'ia Seminar'iou Teleiofo'itwn}}
+            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
         } 
     	\fancyfoot[LE]{%
         	\colorbox{\@chaptercolor}{\color{white}\textbf{\thepage}}
         }
     	\fancyfoot[RE]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Ergas'ia Seminar'iou Teleiofo'itwn}}
+            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
         }       
     \else
     	\fancyfoot[LE,RO]{%
@@ -1046,14 +1046,14 @@
         }
     	\fancyfoot[LO]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Ergas'ia Seminar'iou Teleiofo'itwn}}
+            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
         } 
     	\fancyfoot[LE]{%
         	\colorbox{\@chaptercolor}{\color{white}\textbf{\thepage}}
         }
     	\fancyfoot[RE]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Ergas'ia Seminar'iou Teleiofo'itwn}}
+            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
         }
     \else
     	\fancyfoot[LE,RO]{%
