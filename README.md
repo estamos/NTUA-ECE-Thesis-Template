@@ -22,12 +22,19 @@
   </a>
 </div>
 
-# Template Διπλωματικής ΕΜΠ
+<h1 align="center">
+  Template Διπλωματικής ΕΜΠ
+</h1>
  LaTeX Thesis Template for School of Electrical and Computer Engineering | National Technical University of Athens
 
-## Αλλαγή βασικών πληροφοριών
+<h1 align="center">
+  Αλλαγή βασικών πληροφοριών
+</h1> 
 Για να αλλάξετε τα κύρια στοιχεία της εργασίας , όπως τίτλο , ονοματεπώνυμα και τα λοιπά πηγαίνετε στο main.tex και κάνετε τις αλλαγές που επιθυμείτε.
-## Αλλαγή Τομέα
+
+<h1 align="center">
+  Αλλαγή Τομέα
+</h1> 
 Για να αλλάξετε τομέα , πηγαίνετε στο αρχείο [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/7a5e3e86cd9752d90696219402e14c4e636993ad/ntua-thesis.cls#L665) και αλλάξετε το \division{Τομεας}.
 #### Μην εισάγετε τόνους στο κείμενο καθώς αυτοί θα εμφανιστούν .
 ```
@@ -41,7 +48,9 @@
 ```
 Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/7a5e3e86cd9752d90696219402e14c4e636993ad/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
 
-## Στιγμιότυπα
+<h1 align="center">
+  Στιγμιότυπα
+</h1>
 
 |   Εξώφυλλο            |   Εσώφυλλο            |   Δήλωση Λογοκλοπής   |
 |:---------------------:|:---------------------:|:---------------------:|
