@@ -1677,6 +1677,7 @@
 	\markboth{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
     	{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
     \input{#1}%
+    %\cleardoublepage\pagestyle{empty}% Enumerate glossary pages if they are > 1 page
 }
 
 % Macros for glossary
