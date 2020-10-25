@@ -2,14 +2,14 @@
 %%
 %%	Template for typesetting Diploma Theses (pdfLaTeX version)
 %%
-%%	Evangelos Stamos , January 2019 - January 2020
+%%	Evangelos Stamos , January 2019 - October 2020
 %%	(estamos@e-ce.uth.gr)
 %%	(https://estamos.github.io/)
 %%
 %%	(adopted from the NTUA template for diploma theses 
 %%	[http://web.dbnet.ntua.gr/el/diplomas.html])
 %%
-%%	Last update: September 29, 2015
+%%	Last update: October 25, 2020
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%
@@ -1677,7 +1677,6 @@
 	\markboth{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
     	{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
     \input{#1}%
-    \cleardoublepage\pagestyle{empty}%
 }
 
 % Macros for glossary
