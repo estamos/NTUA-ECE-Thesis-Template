@@ -36,7 +36,7 @@
   Αλλαγή Τομέα
 </h1> 
 
-Για να αλλάξετε τομέα , πηγαίνετε στο αρχείο [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/7a5e3e86cd9752d90696219402e14c4e636993ad/ntua-thesis.cls#L665) και αλλάξετε το \division{Τομεας}.
+Για να αλλάξετε τομέα , πηγαίνετε στο αρχείο [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/master/ntua-thesis.cls#L665) και αλλάξετε το \division{Τομεας}.
 
 #### Μην εισάγετε τόνους στο κείμενο καθώς αυτοί θα εμφανιστούν .
 
@@ -49,7 +49,7 @@
 \division{Τομεας Ηλεκτρικης Ισχυος}
 \division{Τομεας Ηλεκτρικων Βιομηχανικων Διαταξεων και Συστηματων Αποφασεων}
 ```
-Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/7a5e3e86cd9752d90696219402e14c4e636993ad/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
+Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/master/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
 
 <h1 align="center">
   Στιγμιότυπα
