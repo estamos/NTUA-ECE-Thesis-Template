@@ -55,24 +55,14 @@
   Στιγμιότυπα
 </h1>
 
-|   Εξώφυλλο            |   Εσώφυλλο            |   Δήλωση Λογοκλοπής   |
+|   Cover               |   Inside cover        |   Declaration         |
 |:---------------------:|:---------------------:|:---------------------:|
-![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0001.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0003.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0005.jpg)
+![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0001.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0003.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0005.jpg)
 
 
-|   Περίληψη            |   Abstract            |   Περιεχόμενα         |
+|   Abstract            |   Table of Contents   | Bibliography          |
 |:---------------------:|:---------------------:|:---------------------:|
-![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0007.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0009.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0015.jpg)
-
-
-|   Περιεχόμενα            |  Απόδοση Ξενόγλωσσων Όρων     |   Συντομογραφίες - Αρκτικόλεξα|
-|:---------------------:|:---------------------:|:---------------------:|
-![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0016.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0065.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0067.jpg)
-
-
-|   Βιβλιογραφία |
-|:---------------------:|
-![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/master/examples/NTUA_ECE_Thesis_Template_page-0069.jpg)
+![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0009.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0015.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0029.jpg)
 
 
 ## Χρήσιμοι Σύνδεσμοι
