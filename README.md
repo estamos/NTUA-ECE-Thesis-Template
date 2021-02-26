@@ -5,7 +5,6 @@
   <br />
   Πρότυπο Συγγραφής Διπλωματικής Εργασίας | ΕΜΠ
 </h1>
-div align="center">
   <a href="https://www.paypal.me/evangelosstamos">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
