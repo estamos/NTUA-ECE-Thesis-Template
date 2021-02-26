@@ -5,12 +5,7 @@
   <br />
   Πρότυπο Συγγραφής Διπλωματικής Εργασίας | ΕΜΠ
 </h1>
-
-<p align="center">
-  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english>English</a>
-</p>
-
-<div align="center">
+div align="center">
   <a href="https://www.paypal.me/evangelosstamos">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
@@ -21,6 +16,10 @@
     <img alt="Example PDF" src="https://img.shields.io/badge/thesis-pdf-red.svg" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
+</p>
 
 <h1 align="center">
   Template Διπλωματικής ΕΜΠ
