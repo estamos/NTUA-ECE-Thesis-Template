@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  LaTeX template for thesis
+  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english>English</a>
 </p>
 
 <div align="center">
