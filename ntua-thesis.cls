@@ -592,10 +592,10 @@
 \newcommand{\keywordsnameeng}{\en{Keywords}}
 \newcommand{\abstractname}{Περίληψη}
 \newcommand{\abstractnameeng}{\en{Abstract}}
-\newcommand{\draftname}{Προσχέδιο}
-\newcommand{\prefacename}{Πρόλογος}
-\newcommand{\acknowledgementsname}{Ευχαριστίες}
-\newcommand{\pagesname}{Σελίδες}
+\newcommand{\draftname}{\en{Draft}}
+\newcommand{\prefacename}{\en{Preface}}
+\newcommand{\acknowledgementsname}{\en{Acknowledgements}}
+\newcommand{\pagesname}{\en{Pages}}
 \newcommand{\urlname}{\en{URL}}
 \newcommand{\ftpname}{\en{FTP}}
 
@@ -659,17 +659,17 @@
 	\ProcessOptions
 	\ifmodernoption
 		% More Names
-		\translator{Διπλωματικη Εργασια}
-		\institution{Εθνικο Μετσοβιο Πολυτεχνειο}
-		\department{Σχολη Ηλεκτρολογων Μηχανικων και Μηχανικων Υπολογιστων}
-		\division{Τομεας}
+		\translator{\en{Diploma Thesis}}
+		\institution{\en{National Technical University of Athens}}
+		\department{\en{School of Electrical and Computer Engineering}}
+		\division{\en{Division of}}
 		\other{}	
 	\else
 		% More Names
-		\translator{Διπλωματική Εργασία}
-		\institution{Εθνικό Μετσόβιο Πολυτεχνείο}
-		\department{Σχολή Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών}
-		\division{Τομέας}
+		\translator{\en{Diploma Thesis}}
+		\institution{\en{National Technical University of Athens}}
+		\department{\en{School of Electrical and Computer Engineering}}
+		\division{\en{Division of}}
 		\other{}	
 	\fi
     \ifprinteroption
@@ -785,7 +785,7 @@
         \else
 	 	 	\usepackage{background}
          	\backgroundsetup{%
-         	contents={\selectlanguage{greek}Diplwmatik'h Ergas'ia},%
+         	contents={\selectlanguage{english}Diploma Thesis},%
          	angle=90, vshift=2.6cm,%
          	scale=3.4, color=gray}
         \fi
@@ -821,9 +821,9 @@
 }
 
 \approval{%
-    Εγκρίθηκε από την τριμελή εξεταστική επιτροπή την \@examinationDate.\\[11pt]
+    \en{Approved by the examination committee on} \@examinationDate.\\[11pt]
     \begin{tabular}{ccc}	
-     	\textit{(Υπογραφή)} &   \textit{(Υπογραφή)} &  \textit{(Υπογραφή)} \\[1.5cm]
+     	\textit{(\en{Signature})} &   \textit{(\en{Signature})} &  \textit{(\en{Signature})} \\[1.5cm]
         \dotfill & \dotfill & \dotfill \\
      	~\@supervisor~ &  ~\@firstExaminer~ & ~\@secondExaminer~ \\
  		~\@supervisorTitle~ &  ~\@firstExaminerTitle~ & ~\@secondExaminerTitle~ 
@@ -831,35 +831,11 @@
 }
 
 \newcommand\declarationsingleauthor{%
-Με πλήρη επίγνωση των συνεπειών του νόμου περί πνευματικών δικαιωμάτων, δηλώνω ενυπογράφως
-ότι είμαι αποκλειστικός συγγραφέας της παρούσας Πτυχιακής Εργασίας, για την ολοκλήρωση της οποίας
-κάθε βοήθεια είναι πλήρως αναγνωρισμένη και αναφέρεται λεπτομερώς στην εργασία αυτή. Έχω
-αναφέρει πλήρως και με σαφείς αναφορές, όλες τις πηγές χρήσης δεδομένων, απόψεων, θέσεων και
-προτάσεων, ιδεών και λεκτικών αναφορών, είτε κατά κυριολεξία είτε βάσει επιστημονικής παράφρασης.
-Αναλαμβάνω την προσωπική και ατομική ευθύνη ότι σε περίπτωση αποτυχίας στην υλοποίηση των
-ανωτέρω δηλωθέντων στοιχείων, είμαι υπόλογος έναντι λογοκλοπής, γεγονός που σημαίνει αποτυχία
-στην Πτυχιακή μου Εργασία και κατά συνέπεια αποτυχία απόκτησης του Τίτλου Σπουδών, πέραν των
-λοιπών συνεπειών του νόμου περί πνευματικών δικαιωμάτων. Δηλώνω, συνεπώς, ότι αυτή η Πτυχιακή
-Εργασία προετοιμάστηκε και ολοκληρώθηκε από εμένα προσωπικά και αποκλειστικά και ότι,
-αναλαμβάνω πλήρως όλες τις συνέπειες του νόμου στην περίπτωση κατά την οποία αποδειχθεί,
-διαχρονικά, ότι η εργασία αυτή ή τμήμα της δεν μου ανήκει διότι είναι προϊόν λογοκλοπής άλλης
-πνευματικής ιδιοκτησίας.%
+\en{Being fully aware of the implications of copyright laws, I expressly state that this diploma thesis, as well as the electronic files and source codes developed or modified in the course of this thesis, are solely the product of my personal work and do not infringe any rights of intellectual property, personality and personal data of third parties, do not contain work / contributions of third parties for which the permission of the authors / beneficiaries is required and are not a product of partial or complete plagiarism, while the sources used are limited to the bibliographic references only and meet the rules of scientific citing. The points where I have used ideas, text, files and / or sources of other authors are clearly mentioned in the text with the appropriate citation and the relevant complete reference is included in the bibliographic references section. I fully, individually and personally undertake all legal and administrative consequences that may arise in the event that it is proven, in the course of time, that this thesis or part of it does not belong to me because it is a product of plagiarism.}%
 }
 
 \newcommand\declarationmultiauthors{%
-Με πλήρη επίγνωση των συνεπειών του νόμου περί πνευματικών δικαιωμάτων, δηλώνουμε ενυπογράφως
-ότι είμαστε αποκλειστικοί συγγραφείς της παρούσας Πτυχιακής Εργασίας, για την ολοκλήρωση της οποίας
-κάθε βοήθεια είναι πλήρως αναγνωρισμένη και αναφέρεται λεπτομερώς στην εργασία αυτή. Έχουμε
-αναφέρει πλήρως και με σαφείς αναφορές, όλες τις πηγές χρήσης δεδομένων, απόψεων, θέσεων και
-προτάσεων, ιδεών και λεκτικών αναφορών, είτε κατά κυριολεξία είτε βάσει επιστημονικής παράφρασης.
-Αναλαμβάνουμε την προσωπική και ατομική ευθύνη ότι σε περίπτωση αποτυχίας στην υλοποίηση των
-ανωτέρω δηλωθέντων στοιχείων, είμαστε υπόλογοι έναντι λογοκλοπής, γεγονός που σημαίνει αποτυχία
-στην Πτυχιακή μας Εργασία και κατά συνέπεια αποτυχία απόκτησης του Τίτλου Σπουδών, πέραν των
-λοιπών συνεπειών του νόμου περί πνευματικών δικαιωμάτων. Δηλώνουμε, συνεπώς, ότι αυτή η Πτυχιακή
-Εργασία προετοιμάστηκε και ολοκληρώθηκε από εμάς προσωπικά και αποκλειστικά και ότι,
-αναλαμβάνουμε πλήρως όλες τις συνέπειες του νόμου στην περίπτωση κατά την οποία αποδειχθεί,
-διαχρονικά, ότι η εργασία αυτή ή τμήμα της δεν μας ανήκει διότι είναι προϊόν λογοκλοπής άλλης
-πνευματικής ιδιοκτησίας.%
+\en{Being fully aware of the implications of copyright laws, I expressly state that this diploma thesis, as well as the electronic files and source codes developed or modified in the course of this thesis, are solely the product of my personal work and do not infringe any rights of intellectual property, personality and personal data of third parties, do not contain work / contributions of third parties for which the permission of the authors / beneficiaries is required and are not a product of partial or complete plagiarism, while the sources used are limited to the bibliographic references only and meet the rules of scientific citing. The points where I have used ideas, text, files and / or sources of other authors are clearly mentioned in the text with the appropriate citation and the relevant complete reference is included in the bibliographic references section. I fully, individually and personally undertake all legal and administrative consequences that may arise in the event that it is proven, in the course of time, that this thesis or part of it does not belong to me because it is a product of plagiarism.}%
 }
 
 \newcommand\declaration{%
@@ -875,9 +851,9 @@
 
 \newcommand\signature{%
 	\ifx\singleauthor\@empty
-		(Υπογραφές)
+		(\en{Signatures})
 	\else
-		(Υπογραφή)
+		(\en{Signature})
     \fi
 }
 
@@ -922,7 +898,7 @@
                 \end{spacing}}~~
                 \ifx\n\numberofauthorsEN\else\hfill\fi 
         	}
-            \selectlanguage{greek}
+            \selectlanguage{english}
 		\fi%
 		\\[12pt]%
 		\@declarationDate%
@@ -930,7 +906,7 @@
 
 \middletitleback{%
     \vspace{1cm} 
-    \textcolor{\colouredtextcolor}{\en{Copyright} \en{\copyright }}\en{ -- All rights reserved.} Με την επιφύλαξη παντός δικαιώματος.\\ %
+    \textcolor{\colouredtextcolor}{\en{Copyright} \en{\copyright }}\en{ -- All rights reserved.}\\ %
 	\ifx\@authorNameGR\@empty
 	\else
         \@authorNameGR,
@@ -941,15 +917,12 @@
 	\fi 
     \@copyrightYear. 
     \\[12pt]
-    Απαγορεύεται η αντιγραφή, αποθήκευση και διανομή της παρούσας εργασίας, εξ
-    ολοκλήρου ή τμήματος αυτής, για εμπορικό σκοπό.  Επιτρέπεται η ανατύπωση,
-    αποθήκευση και διανομή για σκοπό μη κερδοσκοπικό, εκπαιδευτικής ή
-    ερευνητικής φύσης, υπό την προϋπόθεση να αναφέρεται η πηγή προέλευσης και να
-    διατηρείται το παρόν μήνυμα.  
+    \en{The copying, storage and distribution of this diploma thesis, exall or part of it, is prohibited for commercial purposes. Reprinting,
+        storage and distribution for non - profit, educational or of a research nature is allowed, provided that the source is indicated and that this message is retained.}  
     \\[12pt]
-    Το περιεχόμενο αυτής της εργασίας δεν απηχεί απαραίτητα τις απόψεις του Τμήματος, του Επιβλέποντα, ή της επιτροπής που την ενέκρινε. 
+    \en{The content of this thesis does not necessarily reflect the views of the Department, the Supervisor, or the committee that approved it.} 
     \\[20pt]
-    \textcolor{\colouredtextcolor}{\textbf{ΔΗΛΩΣΗ ΜΗ ΛΟΓΟΚΛΟΠΗΣ ΚΑΙ ΑΝΑΛΗΨΗΣ ΠΡΟΣΩΠΙΚΗΣ ΕΥΘΥΝΗΣ}}
+    \textcolor{\colouredtextcolor}{\textbf{\en{DISCLAIMER ON ACADEMIC ETHICS AND INTELLECTUAL PROPERTY RIGHTS}}}
     \\
 	\declaration
     \\[24pt]
@@ -995,7 +968,7 @@
 }
 %
 \renewcommand{\chaptermark}[1]{
-    \markboth{\mbox{\selectlanguage{greek}\@chapapp}\ \thechapter.\ \ #1}{}
+    \markboth{\mbox{\selectlanguage{english}\@chapapp}\ \thechapter.\ \ #1}{}
 %        \markboth{\mbox{\@chapapp}\ \thechapter.\ \ #1}{}
 }
 \renewcommand{\sectionmark}[1]{
@@ -1010,14 +983,14 @@
         }
     	\fancyfoot[LO]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
+            {\selectlanguage{english}\textit{Diploma Thesis}}
         } 
     	\fancyfoot[LE]{%
         	\colorbox{\@chaptercolor}{\color{white}\textbf{\thepage}}
         }
     	\fancyfoot[RE]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
+            {\selectlanguage{english}\textit{Diploma Thesis}}
         }       
     \else
     	\fancyfoot[LE,RO]{%
@@ -1046,14 +1019,14 @@
         }
     	\fancyfoot[LO]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
+            {\selectlanguage{english}\textit{Diploma Thesis}}
         } 
     	\fancyfoot[LE]{%
         	\colorbox{\@chaptercolor}{\color{white}\textbf{\thepage}}
         }
     	\fancyfoot[RE]{%
         	\textcolor{\@chaptercolor}%
-            {\selectlanguage{greek}\textit{Diplwmatik'h Ergas'ia}}
+            {\selectlanguage{english}\textit{Diploma Thesis}}
         }
     \else
     	\fancyfoot[LE,RO]{%
@@ -1140,12 +1113,12 @@
 \newenvironment{preface}{%
   \chapter*{\prefacename}\@mkboth{\prefacename}{\prefacename}%
   \ifplainoption\else\phantomsection\fi%
-  \addcontentsline{toc}{chapter}{Πρόλογος}%
+  \addcontentsline{toc}{chapter}{\en{Preface}}%
 }{}
 \def\abstract{%
   \chapter*{\abstractname\@mkboth{\abstractname}{\abstractname}}
   \ifplainoption\else\phantomsection\fi%
-  \addcontentsline{toc}{chapter}{Περίληψη}
+  \addcontentsline{toc}{chapter}{\en{Abstract}}
 }
 \def\abstracteng{
   \chapter*{\abstractnameeng\@mkboth{\abstractnameeng}{\abstractnameeng}}
@@ -1168,7 +1141,7 @@
 	\fi%
 	\oldbibliography{#1}%
     \addtocontents{toc}{\bigskip}%
-	\addcontentsline{toc}{chapter}{Βιβλιογραφία}%
+	\addcontentsline{toc}{chapter}{\en{Bibliography}}%
 }
 
 %% Dedication
@@ -1289,8 +1262,8 @@
                 \node[draw=none, text width=3.3cm, align=center] at (-3.7,-0.5)%
                 {\textbf{#2}};%
              	\node[draw=none, align=center] at (3.5,-0.5) %
-                {\textbf{ΔΙΠΛΩΜΑΤΙΚΗ}  \\ \textbf{ΕΡΓΑΣΙΑ} \\[5pt] %
-                	ΑΘΗΝΑ,  \\ #3 \\ #4};%
+                {\textbf{\en{DIPLOMA}}  \\ \textbf{\en{THESIS}} \\[5pt] %
+                	\en{ATHENS},  \\ #3 \\ #4};%
 				\node[draw=none,text width=#5cm, align=center] at (0,3)%
                 	{\fontsize{9}{10.8}\selectfont \textbf{#1} \fontsize{7}%
                     {8.4}\selectfont};   
@@ -1329,8 +1302,8 @@
                 		\node[draw=none, align=center] at (-3.5,1.2)%
                     		{\includegraphics[width=1.5cm]{\logopath}};
 			\fi
-                \node[draw=none, align=center] at (3.5,-0.5) {\textbf{ΔΙΠΛΩΜΑΤΙΚΗ}  %
-                	\\ \textbf{ΕΡΓΑΣΙΑ}  \\[5pt] ΑΘΗΝΑ,  \\ #3 \\ #4};%
+                \node[draw=none, align=center] at (3.5,-0.5) {\textbf{\en{DIPLOMA}}  %
+                	\\ \textbf{\en{THESIS}}  \\[5pt] \en{ATHENS},  \\ #3 \\ #4};%
                	\node[draw=none, text width=3.3cm, align=center] at (-3.7,-0.5)%
                 	{\textbf{#2}};
 				\node[draw=none,text width=#5cm, align=center] at (0,3) %
@@ -1384,14 +1357,14 @@
                         	{ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ \\ ΣΧΟΛΗ ΗΛΕΚΤΡΟΛΟΓΩΝ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΜΗΧΑΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ \\ %
                             TΟΜΕΑΣ};%
                    		\node[draw=none, text width=9cm, align=center] at (0,2.3) %
-                        	{ΔΙΠΛΩΜΑΤΙΚΗ ΕΡΓΑΣΙΑ};%
+                        	{\en{DIPLOMA THESIS}};%
 						\node[draw=none,text width=#5cm, align=center] at (0,0)%
                         	{\fontsize{11}{13.2}\selectfont \textbf{#1} %
                             \fontsize{8}{9.6}\selectfont};%   
                    		\node[draw=none, text width=7cm, align=center] at (0,-2.5)%
                         	{\textbf{#2}};
                    		\node[draw=none, text width=10cm, align=center] at (0,-4)%
-                        	{\scalebox{0.7}{ΑΘΗΝΑ}};
+                        	{\scalebox{0.7}{\en{ATHENS}}};
                    		\node[draw=none, text width=5cm, align=center] at (0,-4.5)%
                         	{\scalebox{0.7}{#3 #4}};
 	        		\end{tikzpicture}
@@ -1418,14 +1391,14 @@
                         	{ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ \\ ΣΧΟΛΗ ΗΛΕΚΤΡΟΛΟΓΩΝ ΜΗΧΑΝΙΚΩΝ ΚΑΙ ΜΗΧΑΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ \\ %
                             TΟΜΕΑΣ};%
                    		\node[draw=none, text width=9cm, align=center] at (0,2.3) %
-                        	{ΔΙΠΛΩΜΑΤΙΚΗ ΕΡΓΑΣΙΑ};%
+                        	{\en{DIPLOMA THESIS}};%
 						\node[draw=none,text width=#5cm, align=center] at (0,0)%
                         	{\fontsize{11}{13.2}\selectfont \textbf{#1} \fontsize{8}%
                             {9.6}\selectfont};   
                    		\node[draw=none, text width=7cm, align=center] at (0,-2.5)%
                         	{\textbf{#2}};
                    		\node[draw=none, text width=10cm, align=center] at (0,-4)%
-                        	{\scalebox{0.7}{ΑΘΗΝΑ}};
+                        	{\scalebox{0.7}{\en{ATHENS}}};
                    		\node[draw=none, text width=5cm, align=center] at (0,-4.5)%
                         	{\scalebox{0.7}{#3 #4}};
 	        	\end{tikzpicture}
@@ -1672,10 +1645,10 @@
 \newcommand{\abbrevEN}[2]{\en{#1} \> \en{#2}\\ }
 \newcommand{\abbrevGR}[2]{#1 \> #2\\ }
 \newcommand\includeabbreviations[1]{%
-	\chapter*{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
-	\addcontentsline{toc}{chapter}{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
-	\markboth{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
-    	{Συντομογραφίες - Αρκτικόλεξα  - Ακρωνύμια}%
+	\chapter*{List of Abbreviations}%
+	\addcontentsline{toc}{chapter}{List of Abbreviations}%
+	\markboth{List of Abbreviations}%
+    	{List of Abbreviations}%
     \input{#1}%
     %\cleardoublepage\pagestyle{empty}% Enumerate glossary pages if they are > 1 page
 }
@@ -1772,80 +1745,8 @@
 % Execute some code before and after \begin{document}
 	\usepackage{etoolbox}
     \AtEndPreamble{\preprocess\compileauthors\setpdfproperties}%
-    \AfterEndPreamble{\selectlanguage{greek}}%
+    \AfterEndPreamble{\selectlanguage{english}}%
 %
-\selectlanguage{greek}
+\selectlanguage{english}
 
 \endinput
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% CHANGE-LOG
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% ---------------------------------------------
-%% 29/09/2015 - version 1.5.2:
-%% ---------------------------------------------
-%% 1. Added Greek language support for the "listings" package. 
-%%
-%% ---------------------------------------------
-%% 19/05/2015 - version 1.5.1:
-%% ---------------------------------------------
-%% 1. Introduced support for the "listings" package. 
-%%
-%% ---------------------------------------------
-%% 28/04/2015 - version 1.5:
-%% ---------------------------------------------
-%% 1. Introduced support for typesetting algorithms. 
-%%
-%% ---------------------------------------------
-%% 26/04/2015 - version 1.4:
-%% ---------------------------------------------
-%% 1. Introduced the "newlogo" option to typeset the thesis using the new 
-%% (still unofficial?) logo. 
-%%
-%% ---------------------------------------------
-%% 14/03/2015 - version 1.3.1:
-%% ---------------------------------------------
-%% 1. Fixed problem with missing "nohyphenation" language in MikTeX 
-%% (uses the \nohyphens macro of the hyphenat package, instead). 
-%%
-%% ---------------------------------------------
-%% 11/01/2015 - version 1.3:
-%% ---------------------------------------------
-%% 1. Allows the addition of an image on the cover page (optional). 
-%%
-%% ---------------------------------------------
-%% 04/01/2015 - version 1.2.2:
-%% ---------------------------------------------
-%% 1. Added the "hyphens" option to the url package in order to fix long
-%% urls not breaking over several lines.
-%%
-%% ---------------------------------------------
-%% 21/12/2014 - version 1.2.1:
-%% ---------------------------------------------
-%% 1. Fixed "Package hyperref Warning: Token not allowed in a PDF string 
-%% (Unicode): (hyperref) removing `\\' ..."
-%% 2. Corrected class name in warning messages.
-%%
-%% ---------------------------------------------
-%% 10/12/2014 - version 1.2:
-%% ---------------------------------------------
-%% 1. Cover page logo is printed in black and white, when the "printer" option
-%% is selected. 
-%% 2. Thesis title colors (foreground and background) can now be customized. 
-%% Note that background color is not applicable if the "plain" option is set.
-%% 3. Other minor fixes.
-%%
-%% ---------------------------------------------
-%% 06/12/2014 - version 1.1:
-%% ---------------------------------------------
-%% 1. Introduced the "plain" option to deal with online compilation
-%% timeouts (also provides an alternative appearance of the thesis).
-%% 2. Introduced the "noindex" option to speed-up online compilation. 
-%% 3. Auxiliary files need not be deleted after removing the hyperref option.
-%% (by the dummy definition of the "\hyperindexformat" and "\hyperpage" macros
-%% when hyperref is switched off).
-%% 4. "Main.tex" made more tidy (macros for defining variables have
-%% been introduced, instead of using "edef" statements).
-%% 5. Other minor fixes. 
-%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
