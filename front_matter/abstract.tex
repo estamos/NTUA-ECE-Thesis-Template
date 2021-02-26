@@ -1,40 +1,5 @@
-\begin{abstract}
-Ένα σύστημα ομότιμων κόμβων αποτελείται από ένα σύνολο αυτόνομων
-υπολογιστικών κόμβων στο Διαδίκτυο, οι οποίοι συνεργάζονται με
-σκοπό την ανταλλαγή δεδομένων. Στα συστήματα ομότιμων κόμβων που
-χρησιμοποιούνται ευρέως σήμερα, η αναζήτηση πληροφορίας γίνεται με
-χρήση λέξεων κλειδιών. Η ανάγκη για πιο εκφραστικές λειτουργίες,
-σε συνδυασμό με την ανάπτυξη του Σημασιολογικού Ιστού, οδήγησε στα
-συστήματα ομότιμων κόμβων βασισμένα σε σχήματα. Στα συστήματα αυτά
-κάθε κόμβος χρησιμοποιεί ένα σχήμα με βάση το οποίο οργανώνει τα
-τοπικά διαθέσιμα δεδομένα. Για να είναι δυνατή η αναζήτηση
-δεδομένων στα συστήματα αυτά υπάρχουν δύο τρόποι. Ο πρώτος είναι
-όλοι οι κόμβοι να χρησιμοποιούν το ίδιο σχήμα κάτι το οποίο δεν
-είναι ευέλικτο. Ο δεύτερος τρόπος δίνει την αυτονομία σε κάθε
-κόμβο να επιλέγει όποιο σχήμα θέλει και απαιτεί την ύπαρξη κανόνων
-αντιστοίχισης μεταξύ των σχημάτων για να μπορούν να αποτιμώνται οι
-ερωτήσεις. Αυτός ο τρόπος προσφέρει ευελιξία όμως δεν υποστηρίζει
-την αυτόματη δημιουργία και τη δυναμική ανανέωση των κανόνων, που
-είναι απαραίτητες για ένα σύστημα ομότιμων κόμβων.
-
-Στόχος της διπλωματικής εργασίας είναι η ανάπτυξη ενός συστήματος
-ομότιμων κόμβων βασισμένο σε σχήματα το οποίο (α) θα επιτρέπει μια
-σχετική ευελιξία στην χρήση των σχημάτων και (β) θα δίνει την
-δυνατότητα μετασχηματισμού ερωτήσεων χωρίς την ανάγκη διατύπωσης
-κανόνων αντιστοίχισης μεταξύ σχημάτων, xρησιμοποιώντας κόμβους με
-σχήματα \tl{RDF} που αποτελούν υποσύνολα-όψεις ενός βασικού
-σχήματος (καθολικό σχήμα).
-
-   \begin{keywords}
-   Σύστημα ομότιμων κόμβων, Σύστημα ομότιμων κόμβων βασισμένο σε
-   σχήματα, Σημασιολογικός Ιστός, \tl{RDF/S}, \tl{RQL}, \tl{Jxta}
-   \end{keywords}
-\end{abstract}
-
-
-
 \begin{abstracteng}
-\tl{A peer-to-peer system is a set of autonomous computing nodes
+A peer-to-peer system is a set of autonomous computing nodes
 (the peers) which cooperate in order to exchange data. The peers
 in the peer-to-peer systems that are widely used today, rely on
 simple keyword selection in order to search for data. The need for
@@ -48,16 +13,16 @@ node the flexibility to choose a schema according with its needs,
 but on the same time requires the existence of mapping rules in
 order for queries to be replied. This way though, doesn't offer
 automatic creation and dynamic renewal of the mapping rules which
-would be essential for peer-to-peer systems.}
+would be essential for peer-to-peer systems.
 
-\tl{This diploma thesis aims to the development of a schema-based
+This diploma thesis aims to the development of a schema-based
 peer-to-peer system that allows a certain flexibility for schema
 selection and on the same time enables query transformation
 without the use of mapping rules. The peers use RDF schemas that
-are subsets (views) of a big common schema called global schema.}
+are subsets (views) of a big common schema called global schema.
 
    \begin{keywordseng}
-    \tl{Peer-to-peer, Schema-based peer-to-peer, Semantic Web, RDF/S, RQL, Jxta}
+    Peer-to-peer, Schema-based peer-to-peer, Semantic Web, RDF/S, RQL, Jxta
    \end{keywordseng}
 
 \end{abstracteng}
