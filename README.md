@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
+  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english">English</a>
 </p>
 
 <h1 align="center">
