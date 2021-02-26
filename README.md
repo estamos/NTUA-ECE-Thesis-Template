@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
+</p>
+
 <h1 align="center">
   <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template" title="NTUA ECE Thesis LaTeX Template">
     <img alt="NTUA ECE Thesis LaTeX Template" src="https://www.ece.ntua.gr/themes/ecetheme/assets/img/pyrforos.svg" width="200px" height="200px" />
