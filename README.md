@@ -1,5 +1,9 @@
 <p align="center">
-  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english">English</a>
+  Το project είναι διαθέσιμο και στο Overleaf, τόσο στην <a href="https://www.overleaf.com/read/zkjwscbttyzf">ελληνική</a> όσο και στην <a href="https://www.overleaf.com/read/kdskpyczbzkb">αγγλική</a> έκδοση.
+</p>
+
+<p align="center">
+  Η αγγλική έκδοση βρίσκεται στο <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english">english branch</a>.
 </p>
 
 <h1 align="center">
