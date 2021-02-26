@@ -5,6 +5,8 @@
   <br />
   Πρότυπο Συγγραφής Διπλωματικής Εργασίας | ΕΜΠ
 </h1>
+
+<div align="center">
   <a href="https://www.paypal.me/evangelosstamos">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
@@ -16,9 +18,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/estamos/COVID-19-GR-DATA/blob/master/README_EN.md">English</a>
-</p>
 
 <h1 align="center">
   Template Διπλωματικής ΕΜΠ
