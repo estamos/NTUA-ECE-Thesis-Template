@@ -70,7 +70,7 @@
 
 |   Abstract            |   Table of Contents   | Bibliography          |
 |:---------------------:|:---------------------:|:---------------------:|
-![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0009.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0015.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0029.jpg)
+![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0007.jpg)  | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0015.jpg) | ![](https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template_page-0029.jpg)
 
 
 ## Χρήσιμοι Σύνδεσμοι
