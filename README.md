@@ -49,13 +49,13 @@
 #### Μην εισάγετε τόνους στο κείμενο καθώς αυτοί θα εμφανιστούν .
 
 ```
-\division{Τομεας Ηλεκτρομαγνητικων Εφαρμογων Ηλεκτροοπτικης και Ηλεκτρονικων Υλικων}
-\division{Τομεας Συστηματων Μεταδοσης Πληροφοριας και Τεχνολογιας Υλικων}
-\division{Τομεας Σηματων, Ελεγχου και Ρομποτικης}
-\division{Τομεας Τεχνολογιας Πληροφορικης και Υπολογιστων}
-\division{Τομεας Επικοινωνιων, Ηλεκτρονικης και Συστηματων Πληροφορικης}
-\division{Τομεας Ηλεκτρικης Ισχυος}
-\division{Τομεας Ηλεκτρικων Βιομηχανικων Διαταξεων και Συστηματων Αποφασεων}
+\division{Division of Electromagnetics, Electrooptics and Electronic Materials }
+\division{Division of Information Transmission Systems and Material Technology }
+\division{Division of Signals, Control and Robotics}
+\division{Division of Computer Science}
+\division{Division of Communication, Electronic and Information Engineering}
+\division{Division of Electric Power}
+\division{Division of Industrial Electric Devices and Decision Systems}
 ```
 Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/english/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
 
