@@ -1,5 +1,13 @@
+<p align="center">
+  Το project είναι διαθέσιμο και στο Overleaf, τόσο στην <a href="https://www.overleaf.com/read/zkjwscbttyzf">ελληνική</a> όσο και στην <a href="https://www.overleaf.com/read/kdskpyczbzkb">αγγλική</a> έκδοση.
+</p>
+
+<p align="center">
+  Η ελληνική έκδοση βρίσκεται στο <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template">master branch</a>.
+</p>
+
 <h1 align="center">
-  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template" title="NTUA ECE Thesis LaTeX Template">
+  <a href="https://github.com/estamos/NTUA-ECE-Thesis-Template/tree/english" title="NTUA ECE Thesis LaTeX Template">
     <img alt="NTUA ECE Thesis LaTeX Template" src="https://www.ece.ntua.gr/themes/ecetheme/assets/img/pyrforos.svg" width="200px" height="200px" />
   </a>
   <br />
