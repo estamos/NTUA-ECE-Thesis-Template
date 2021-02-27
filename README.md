@@ -57,7 +57,6 @@
 \division{Division of Electric Power}
 \division{Division of Industrial Electric Devices and Decision Systems}
 ```
-Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/english/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
 
 <h1 align="center">
   Στιγμιότυπα
