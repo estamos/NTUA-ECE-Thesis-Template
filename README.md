@@ -54,7 +54,7 @@
 \division{Τομεας Ηλεκτρικης Ισχυος}
 \division{Τομεας Ηλεκτρικων Βιομηχανικων Διαταξεων και Συστηματων Αποφασεων}
 ```
-Το δεύτερο \division{Τομέας} [ntua-thesis.cls](https://github.com/estamos/NTUA-ECE-Thesis-Template/blob/master/ntua-thesis.cls#L672) δεν επηρεάζει το αρχείο, συνεπώς είτε προχωρήσετε σε αλλαγή του είτε όχι δεν υπάρχει πρόβλημα.
+
 
 <h1 align="center">
   Στιγμιότυπα
