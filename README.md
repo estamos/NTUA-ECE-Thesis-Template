@@ -18,21 +18,6 @@
   LaTeX template for thesis
 </p>
 
-<div align="center">
-  <a href="https://www.paypal.me/evangelosstamos">
-    <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
-  </a>
-  <a href="https://www.buymeacoffee.com/estamos">
-    <img alt="Donate" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg" />
-  </a>
-  <a href="https://raw.githubusercontent.com/estamos/NTUA-ECE-Thesis-Template/english/examples/NTUA_ECE_Thesis_Template.pdf">
-    <img alt="Example PDF" src="https://img.shields.io/badge/thesis-pdf-red.svg" />
-  </a>
-</div>
-
-<h1 align="center">
-  Template Διπλωματικής ΕΜΠ
-</h1>
  LaTeX Thesis Template for School of Electrical and Computer Engineering | National Technical University of Athens
 
 <h1 align="center">
