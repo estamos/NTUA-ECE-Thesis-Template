@@ -43,7 +43,7 @@
 
 - [Οδηγός Συγγραφής](https://lib.ece.ntua.gr/files/odigos2021.pdf)
 
-- [Οδηγοί LaTeX](https://lib.ece.ntua.gr/files/odigoi_tex/diplomatiki.tars)
+- [Οδηγοί LaTeX](https://lib.ece.ntua.gr/files/odigoi_tex/diplomatiki.tar)
 
 - [Οδηγοί doc](https://lib.ece.ntua.gr/files/odigoi_doc/diplomatiki.doc)
 
