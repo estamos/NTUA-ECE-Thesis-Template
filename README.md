@@ -66,10 +66,10 @@
 
 ## Χρήσιμοι Σύνδεσμοι
 
-- [Οδηγός Συγγραφής](https://lib.ece.ntua.gr/files/OdhgosSyggrafhs_v3.pdf)
+- [Οδηγός Συγγραφής](https://lib.ece.ntua.gr/files/odigos2021.pdf)
 
-- [Οδηγοί LaTeX](https://lib.ece.ntua.gr/files/odigoi_tex)
+- [Οδηγοί LaTeX](https://lib.ece.ntua.gr/files/odigoi_tex/diplomatiki.tars)
 
-- [Οδηγοί doc](https://lib.ece.ntua.gr/files/odigoi_doc)
+- [Οδηγοί doc](https://lib.ece.ntua.gr/files/odigoi_doc/diplomatiki.doc)
 
-- [DSpace NTUA](http://dspace.lib.ntua.gr/)
+- [DSpace NTUA](https://dspace.lib.ntua.gr/xmlui/static/help/submission_guide_bachelorsThesis.pdf)
