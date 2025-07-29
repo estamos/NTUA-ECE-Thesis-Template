@@ -1,5 +1,5 @@
 <p align="center">
-  Το project είναι διαθέσιμο και στο Overleaf, τόσο στην <a href="https://www.overleaf.com/read/zkjwscbttyzf">ελληνική</a> όσο και στην <a href="https://www.overleaf.com/read/kdskpyczbzkb">αγγλική</a> έκδοση.
+  Το project είναι διαθέσιμο και στο Overleaf, τόσο στην <a href="https://www.overleaf.com/project/6888c8ff958e8a915cef3b0b">ελληνική</a> όσο και στην <a href="https://www.overleaf.com/project/6888c94af69c8fd678bb4580">αγγλική</a> έκδοση.
 </p>
 
 <p align="center">
