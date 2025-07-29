@@ -4,12 +4,11 @@
 %%
 %%	Evangelos Stamos , January 2019 - October 2020
 %%	(estamos@e-ce.uth.gr)
-%%	(https://estamos.github.io/)
 %%
 %%	(adopted from the NTUA template for diploma theses 
 %%	[http://web.dbnet.ntua.gr/el/diplomas.html])
 %%
-%%	Last update: October 25, 2020
+%%	Last update: Jul 29th, 2025
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%
